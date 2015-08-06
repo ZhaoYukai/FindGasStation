@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <issue id="HandlerLeak">
+        <ignore path="src/com/findgasstation/app/activity/MainActivity.java" />
+    </issue>
+    <issue id="InflateParams">
+        <ignore path="src/com/findgasstation/app/activity/MainActivity.java" />
+        <ignore path="src/com/findgasstation/app/adapter/ListGridViewAdapter.java" />
+        <ignore path="src/com/findgasstation/app/adapter/PriceListAdapter.java" />
+        <ignore path="src/com/findgasstation/app/adapter/StationListAdapter.java" />
+    </issue>
+</lint>
