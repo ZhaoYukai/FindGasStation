@@ -41,12 +41,12 @@
         <!-- 百度地图的必要的验证id -->
         <meta-data 
             android:name="com.baidu.lbsapi.API_KEY"
-            android:value=""/>
+            android:value="5wVGzqZy0c5MFwGNiAju15Fj"/>
         
         <!-- 聚合数据的必要的验证id -->
         <meta-data 
             android:name="com.thinkland.juheapi.openid"
-            android:value=""/>
+            android:value="JHdc5c31d5ee7c2899e3c7e7b6b53483e3"/>
         
         <activity
             android:name="com.findgasstation.app.activity.MainActivity"
